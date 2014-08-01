@@ -1,5 +1,5 @@
 name: sync_events
-version: 0.0.1
+version: 0.0.2
 author: Andrew Mezoni <andrew.mezoni@gmail.com>
 description: The synchronization events are events that allows easily synchronize operations with shared resources (AutoResetEvent, ManualResetEvent).
 homepage: https://github.com/mezoni/sync_events
