@@ -5,7 +5,7 @@ The synchronization events are events that allows easily synchronize operations 
 
 The `Ping-Pong` example.
 
-```
+```dart
 import "dart:async";
 import "package:sync_events/sync_events.dart";
 
