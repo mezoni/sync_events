@@ -1,11 +1,3 @@
-sync_events
-===========
-
-The synchronization events are events that allows easily synchronize operations with shared resources (AutoResetEvent, ManualResetEvent).
-
-The `Ping-Pong` example.
-
-```
 import "dart:async";
 import "package:sync_events/sync_events.dart";
 
@@ -62,4 +54,3 @@ void busy(Duration time) {
     }
   }
 }
-```
